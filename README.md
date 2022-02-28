@@ -1,4 +1,4 @@
-### My name is Ifeanyi Ogbonna, I am a currently a front-end developer, hoping to go into full stack development
+### My name is Ifeanyi Ogbonna, I am a currently a Software Engineer
 
 <!--
 **Iphycodes/Iphycodes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
