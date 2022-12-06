@@ -1,4 +1,4 @@
-### My name is Ifeanyi Ogbonna, I am a currently a Software Engineer
+### My name is Ifeanyi Ogbonna and I'm a Software Engineer and Front-end developer
 
 Here are some ideas to get you started:
 
